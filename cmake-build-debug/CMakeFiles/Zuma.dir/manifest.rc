@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/mark.barbaric/Documents/Developer/CPP/CasualGamer/OpenCV/cmake-build-debug/CMakeFiles/Zuma.dir/embed.manifest"
